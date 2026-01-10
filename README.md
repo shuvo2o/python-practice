@@ -1,1 +1,1 @@
-This is basic Python Practice 
+This is Basic Python Practice
